@@ -27,7 +27,7 @@
 ## GUI
 ![Screenshot (21)](https://github.com/Sangondaliya/Intelligent-Assistant-With-Face-Recognition/assets/86861045/cff50d43-c270-4c83-8f0f-38f94f69caa2)
 ![RoboPru](https://github.com/Sangondaliya/Intelligent-Assistant-With-Face-Recognition/assets/86861045/4f17ea2e-d3e4-46be-bf7e-606f64dff069)
-![Screenshot (7)](https://github.com/Sangondaliya/Intelligent-Assistant-With-Face-Recognition/assets/86861045/3a7474fc-65f9-4c50-bf07-18336f528560)
+// ![Screenshot (7)](https://github.com/Sangondaliya/Intelligent-Assistant-With-Face-Recognition/assets/86861045/3a7474fc-65f9-4c50-bf07-18336f528560)
 
 
 
