@@ -1,0 +1,18 @@
+nltk
+tensorflow==2.12.0
+keras
+numpy
+openai-whisper==20231117
+whisper
+SpeechRecognition==3.10.1
+PyAudio==0.2.14
+soundfile==0.12.1
+pyttsx3==2.90
+requests==2.31.0
+face-recognition
+dlib
+tkinter
+Pillow
+
+## to run:
+## pip install -r requirements.txt
